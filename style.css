@@ -1,0 +1,94 @@
+
+.header{
+    width: 475px;
+    height: 550px;
+    background-color: beige;
+    position: relative;
+    margin: auto;
+    text-align: center;
+    padding-top: 10px;
+    color: coral;
+    margin-top: 50px;
+}
+#result{
+    width: 285px;
+    height: 65px;
+    display: flex;
+    margin-left: 80px;
+    margin-top: 40px;
+    text-align: right;
+    font-size: 25px;
+}
+
+.group1{
+    margin-top: 10px;
+    float: left;
+    margin-left: 65px;
+    font-size: 25px;
+}
+.btn1{
+    width: 60px;
+    height: 60px;
+    margin-left: 15px;
+    width: 60px;
+    height: 60px;
+    float: left;
+    border-radius: 5px;
+    border: 0.05px solid gray;
+}
+.decimal{
+    
+        width: 60px;
+        height: 60px;
+        margin-left: 15px;
+        width: 60px;
+        height: 60px;
+        float: left;
+        border-radius: 5px;
+        border: 0.05px solid gray;
+    
+}
+
+.operator{ 
+  
+    margin-left: 150px;
+    width: 60px;
+    height: 60px;
+    float: left;
+    margin-left: 15px;
+    background-color: coral;
+    border-radius: 5px;
+    border: 0.05px solid gray;
+}
+
+.equal{ 
+  
+    margin-left: 150px;
+    width: 60px;
+    height: 60px;
+    float: left;
+    margin-left: 15px;
+    background-color: coral;
+    border-radius: 5px;
+    border: 0.05px solid gray;
+}
+
+.btnclear{
+    margin-left: 150px;
+    width: 285px;
+    height: 60px;
+    float: left;
+    margin-left: 80px;
+    margin-top: 15px;
+    border-radius: 5px;
+    border: 0.05px solid gray;
+}
+.btn1:hover {
+    box-shadow:  0 17px 50px 0 rgba(0,0,0,0.19);
+    background-color: rgb(208, 201, 201);
+
+}
+.btnclear:hover{
+    box-shadow:  0 17px 50px 0 rgba(0,0,0,0.19);
+    background-color: rgb(208, 201, 201);
+}
